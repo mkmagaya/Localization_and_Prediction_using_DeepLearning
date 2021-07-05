@@ -2,7 +2,7 @@
 localization and location prediction with deep learning
 
 
-<a href='https://github.com/mkmagaya/Localization_and_Prediction_using_DeepLearning'/>link to video   
+<a href='https://drive.google.com/file/d/1Pu10ml2X_28N8RASodqJ8EuhDdJLOR_S/view?usp=sharing'/>link to video   
 
 <a href='https://share.streamlit.io/mkmagaya/localization_and_prediction_using_deeplearning/app.py'/>link to app   
     
